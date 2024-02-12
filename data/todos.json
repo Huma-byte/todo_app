@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Read a Book"
+    },
+    {
+      "id": "2",
+      "text": "Write a journal."
+    },
+    {
+      "id": "56c4614e-4015-4ada-8703-aa28e544fbf9",
+      "text": "Go for a walk"
+    },
+    {
+      "id": "fc524024-5829-4906-8268-c87147ee057f",
+      "text": "Watch tutorial"
+    }
+  ]
+}
