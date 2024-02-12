@@ -34,3 +34,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Error of Server(Fetching)
+If such error appears, then follow below steps:
+  -Install json server:
+	    npm i -D json-server
+  -Add script of json in package.json file
+  -Then, run command: npm run json-server
+The error appears because sometimes port 3001 is not availble and you have to run it manually from the terminal from vs code.
